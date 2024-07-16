@@ -1,0 +1,960 @@
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2559: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[:, None]
+/BiO/Access/yoonsung/anaconda3/envs/biopipe2/lib/python3.7/site-packages/numpy/lib/function_base.py:2560: RuntimeWarning: invalid value encountered in true_divide
+  c /= stddev[None, :]
